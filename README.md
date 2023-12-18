@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/Olajydo/Olajydo/blob/masterr/20231016_192222.jpg?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/Olajydo/Olajydo/blob/masterr/WhatsApp%20Image%202023-12-18%20at%2012.37.00%20PM.jpeg">
 <h1 align="center">Hi 👋, I'm Yusuf Olajide</h1>
 <h3 align="center">A passionate Data Analyst / Data scientist</h3>
 

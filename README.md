@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/loerareup" target="blank"><img src="https://img.shields.io/twitter/follow/loerareup?logo=twitter&style=for-the-badge" alt="loerareup" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
-
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
 - 💬 Ask me about **Python, SQL, Machine Learning**

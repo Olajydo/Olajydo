@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/loerareup" target="blank"><img src="https://img.shields.io/twitter/follow/loerareup?logo=twitter&style=for-the-badge" alt="loerareup" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Data Engineering projects**
+- 👯 I’m looking to collaborate on **Machine learning projects**
 
 - 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **yusufolajideda1@gmail.com**
 
-- ⚡ Fun fact **I am fun to chat with**
+- ⚡ Fun fact **I find solace in Jesus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

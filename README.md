@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/Olajydo/Olajydo/blob/masterr/WhatsApp%20Image%202023-12-18%20at%2012.37.00%20PM.jpeg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Olajydo/Olajydo/blob/masterr/WhatsApp%20Image%202025-03-24%20at%206.46.49%20PM.jpeg">
 <h1 align="center">Hi 👋, I'm Yusuf Olajide</h1>
 <p align="center">I'm a Data Scientist with 4+ years of experience in machine learning, predictive modeling, and analytics. I build scalable data solutions, conduct A/B tests, and translate complex data into insights using Python, SQL, Tableau, and Power BI. Passionate about optimizing businesses through data solutions.</p>
 
